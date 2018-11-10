@@ -1,0 +1,19 @@
+{
+    "name": "wayren/tx",
+    "description": "weixin qq login",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "WayrenChan",
+            "email": "77871399@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "wayren\\tx\\": "src/"
+        }
+    }
+}
