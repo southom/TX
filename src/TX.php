@@ -1,5 +1,6 @@
 <?php
-namespace wayren\helper;
+
+namespace think\wayren;
 
 class TX {
     //QQ
